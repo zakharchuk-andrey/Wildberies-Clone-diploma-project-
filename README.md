@@ -1,1 +1,3 @@
-# Wildberies-Clone-diploma-project-
+# Wildberies-Clone
+
+## [DEMO](https://zakharchuk-andrey.github.io/Wildberies-Clone-diploma-project-/)
